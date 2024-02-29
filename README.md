@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-<!--
-**msamsami/msamsami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👤 I'm Mehdi
+- ⚡ I’m a Data Scientist and ML Engineer
+- 📫 How to reach me: [mehdisamsami@live.com](mailto:mehdisamsami@live.com)
 
+
+<a href="https://github.com/yooneskh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=msamsami&show_icons=true&count_private=true" style="width: 450px; max-width: 100%;" />
+</a>
+<a href="https://github.com/yooneskh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamsami&hide=matlab&langs_count=6&layout=compact" style="width: 380px; max-width: 100%;" />
+</a>
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
